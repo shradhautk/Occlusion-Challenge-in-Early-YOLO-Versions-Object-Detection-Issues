@@ -11,9 +11,3 @@ Explore occlusion challenges faced by early YOLO (You Only Look Once) versions V
 
 
 
-![image](https://github.com/shradhautk/Occlusion-Challenge-in-Early-YOLO-Versions-Object-Detection-Issues/assets/101154495/74e161c8-9ce7-42a1-b96b-1b67677aa538)
-
-
-![image](https://github.com/shradhautk/Occlusion-Challenge-in-Early-YOLO-Versions-Object-Detection-Issues/assets/101154495/e1445120-c980-43cd-b971-f223d895f52d)
-
-
